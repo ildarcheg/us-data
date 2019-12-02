@@ -1,0 +1,1347 @@
+{
+    "type": "Topology",
+    "objects": {
+        "collection": {
+            "type": "GeometryCollection",
+            "geometries": [
+                {
+                    "type": "Point",
+                    "id": "10001",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10002",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10003",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10004",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10005",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10006",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10007",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10008",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10009",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10010",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10011",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10012",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10013",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10014",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10015",
+                    "coordinates": [
+                        1667,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10016",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10017",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10018",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10019",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10020",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10021",
+                    "coordinates": [
+                        9999,
+                        9999
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10022",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10023",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10024",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10025",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10026",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10027",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10028",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10029",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10030",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10031",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10032",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10033",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10034",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10035",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10036",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10037",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10038",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10039",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10040",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10041",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10043",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10044",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10045",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10046",
+                    "coordinates": [
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10047",
+                    "coordinates": [
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10048",
+                    "coordinates": [
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10055",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10060",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10065",
+                    "coordinates": [
+                        8333,
+                        8332
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10069",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10072",
+                    "coordinates": [
+                        3333,
+                        6666
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10075",
+                    "coordinates": [
+                        9999,
+                        9999
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10079",
+                    "coordinates": [
+                        1667,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10080",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10081",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10082",
+                    "coordinates": [
+                        5000,
+                        9999
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10087",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10090",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10094",
+                    "coordinates": [
+                        1667,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10095",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10096",
+                    "coordinates": [
+                        1667,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10098",
+                    "coordinates": [
+                        3333,
+                        6666
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10099",
+                    "coordinates": [
+                        1667,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10101",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10102",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10103",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10104",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10105",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10106",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10107",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10108",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10109",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10110",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10111",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10112",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10113",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10114",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10115",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10116",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10117",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10118",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10119",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10120",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10121",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10122",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10123",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10124",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10125",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10126",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10128",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10129",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10130",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10131",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10132",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10133",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10138",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10149",
+                    "coordinates": [
+                        5000,
+                        8332
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10150",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10151",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10152",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10153",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10154",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10155",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10156",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10157",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10158",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10159",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10160",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10161",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10162",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10163",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10164",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10165",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10166",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10167",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10168",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10169",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10170",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10171",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10172",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10173",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10174",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10175",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10176",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10177",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10178",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10179",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10184",
+                    "coordinates": [
+                        1667,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10185",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10196",
+                    "coordinates": [
+                        1667,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10197",
+                    "coordinates": [
+                        1667,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10199",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10200",
+                    "coordinates": [
+                        9999,
+                        9999
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10203",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10211",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10212",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10213",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10242",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10249",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10256",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10257",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10258",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10259",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10260",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10261",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10265",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10268",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10269",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10270",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10271",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10272",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10273",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10274",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10275",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10276",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10277",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10278",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10279",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10280",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10281",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10282",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10285",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10286",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                },
+                {
+                    "type": "Point",
+                    "id": "10292",
+                    "coordinates": [
+                        3333,
+                        0
+                    ]
+                }
+            ]
+        }
+    },
+    "arcs": [],
+    "bbox": [
+        -74.01,
+        40.71,
+        -73.95,
+        40.77
+    ],
+    "transform": {
+        "scale": [
+            0.000006000600060006228,
+            0.000006000600060006228
+        ],
+        "translate": [
+            -74.01,
+            40.71
+        ]
+    }
+}
